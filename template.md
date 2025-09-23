@@ -2,7 +2,7 @@
 
 ## About the xyz community
 
-*please provide a short description of the community or scientific
+*Please provide a short description of the community or scientific
 domain you are representing.*
 
 ## Samples in the xyz community
@@ -20,6 +20,11 @@ distinguish them from samples in other domains?*
 
 *Are there any vocabularies or metadata standards being used in your
 community to describe your samples?*
+
+## Sample PIDs being used
+
+*If you are using any PIDs to identify your samples, such as IGSN,
+please provide some information about this.*
 
 ## Authors
 
