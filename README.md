@@ -14,7 +14,35 @@ your work.  Therefore we invite you to submit a case study.
 
 ## How to contribute?
 
-... to be written
+You may either submit your case study as a pull request for this
+repository right away or submit it by email.
+
+Please note, in either way, by submitting your case study, you agree
+to publish your case study using a CC-BY-4.0 license.
+
+### Submit your case study as a pull request
+
+1. Fork this repository
+
+2. Copy the `template.md` to a new document in the `case-studies`
+   folder.  Choose a sensible name that stands for your scientific
+   community.
+   
+3. Replace in the new document `xyz community` by a suitable name for
+   your community.  Replace the template instructions in italics by
+   corresponding text.
+   
+4. Add an entry referencing your new document to the index, e.g. the
+   `README.md` in the `case-studies` folder.
+   
+5. Push to GitHub.  Submit a pull request to merge your new case study.
+
+### Submit your case study by email
+
+1. Write your case study as a document based on `template.md`.
+
+2. Send the document by email to Rolf Krahl
+   <rolf.krahl@helmholtz-berlin.de>
 
 ## Copyright and License
 
