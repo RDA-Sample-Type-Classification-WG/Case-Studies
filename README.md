@@ -4,9 +4,9 @@ The [RDA Sample Type Classification WG](https://www.rd-alliance.org/groups/sampl
 will develop a recommendation for one or more vocabularies for global,
 cross-domain classification of material sample types.  The
 vocabularies are intended to cover all types of samples being
-investigated in the sciences.  But the the scope will be limited to
-the top-level classification, the detailed description of the samples
-will be left to existing domain-specific vocabularies.
+investigated in the sciences.  But the scope will be limited to the
+top-level classification, the detailed description of the samples will
+be left to existing domain-specific vocabularies.
 
 This repository shall be used to gather input from various scientific
 communities.  We'd like to learn about the samples being dealt with in
@@ -18,7 +18,7 @@ You may either submit your case study as a pull request for this
 repository right away or submit it by email.
 
 Please note, in either way, by submitting your case study, you agree
-to publish your case study using a CC-BY-4.0 license.
+to publish it under a CC-BY-4.0 license.
 
 ### Submit your case study as a pull request
 
@@ -35,7 +35,7 @@ to publish your case study using a CC-BY-4.0 license.
 4. Add an entry referencing your new document to the index, e.g. the
    `README.md` in the `case-studies` folder.
    
-5. Push to GitHub.  Submit a pull request to merge your new case study.
+5. Push to GitHub.  Submit a pull request to merge your changes.
 
 ### Submit your case study by email
 
@@ -43,6 +43,8 @@ to publish your case study using a CC-BY-4.0 license.
 
 2. Send the document by email to Rolf Krahl
    <rolf.krahl@helmholtz-berlin.de>
+   
+3. We will then submit a pull request on your behalf.
 
 ## Copyright and License
 
