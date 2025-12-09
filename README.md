@@ -37,6 +37,14 @@ to publish it under a CC-BY-4.0 license.
    
 5. Push to GitHub.  Submit a pull request to merge your changes.
 
+### Fill out a form
+
+1. Fill out the
+   [form for collecting contributions](https://forms.office.com/e/majtzigfXt).
+
+2. We will then translate your reply into a text according to the
+   template and publish in this GitHub repository on your behalf.
+
 ### Submit your case study by email
 
 1. Write your case study as a document based on `template.md`.
