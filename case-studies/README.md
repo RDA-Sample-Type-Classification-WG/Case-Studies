@@ -1,5 +1,6 @@
 # List of case studies collected
 
-none yet.
+  * Samples in the polar scientific community
+	by UK Polar Data Centre, British Antarctic Survey
 
 
