@@ -1,5 +1,5 @@
 # List of case studies collected
 
-none yet.
 
-
+  * Samples in the material science community
+	by Rossella Aversa (KIT)
