@@ -36,6 +36,6 @@ additional information.
 
 ## Authors
 
-Lukas Beddrich (l.beddrich@fz-juelich.de)
-Jülich Center for Neutron Science
+Lukas Beddrich (l.beddrich@fz-juelich.de),
+Jülich Center for Neutron Science,
 ORCID: https://orcid.org/0000-0003-2868-6705
