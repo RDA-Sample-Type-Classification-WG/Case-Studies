@@ -10,7 +10,7 @@ instruments e.g. neutron scattering.
 
 ## Samples in the magnetism and (many-body) quantum phenomena community
 
-Samples are typically synthesized single cystals or powders.  Of
+Samples are typically synthesized single crystals or powders.  Of
 interest is a wide variety of materials, such as:
 
   * elemental metals and alloys
