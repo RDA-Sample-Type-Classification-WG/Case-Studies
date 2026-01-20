@@ -1,5 +1,7 @@
 # List of case studies collected
 
-none yet.
+  * Samples in the Marine Geology and Environmental Sciences
+    by Dr Cian McGuire, British Ocean Sediment Core Research Facility
+
 
 
