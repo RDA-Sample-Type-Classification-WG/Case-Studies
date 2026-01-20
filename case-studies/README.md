@@ -1,5 +1,4 @@
 # List of case studies collected
 
-none yet.
-
-
+  * Samples in the magnetism and (many-body) quantum phenomena community
+	by Lukas Beddrich
