@@ -1,5 +1,6 @@
 # List of case studies collected
 
-none yet.
+  * Samples in the condensed matter physics community
+	    by Jana Pasztorova and Johanna K. Jochum
 
 
