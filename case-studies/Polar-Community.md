@@ -23,7 +23,7 @@ We hold environmental samples characterised by:
   * Type (e.g. live, culture/isolate, fixed/preserved, dried, substrate, whole animal, tissue, see also https://www.geosamples.org/vocabularies/sample-type-object)
   * Dimensions (e.g. size, volume, weight)
   * Granularity (e.g. core, section, split, sub-sample)
-  * Treatment (e.g. chlorophorm, ethanol, formaldehyde, lugol’s iodine, see also https://vocab.nerc.ac.uk/collection/S03/current/accepted/)
+  * Treatment (e.g. chloroform, ethanol, formaldehyde, lugol’s iodine, see also https://vocab.nerc.ac.uk/collection/S03/current/accepted/)
   * Provenance (e.g. locality, gazetteer, geolocation, date, depth, collection device, see also https://vocab.nerc.ac.uk/collection/S21/current/accepted/)
   * Storage (e.g. conditions, container type etc.)
   * Content (e.g. taxon, individual count, developmental state, sex, rock type)
