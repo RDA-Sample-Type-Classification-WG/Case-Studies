@@ -12,3 +12,5 @@
   * Samples in the Marine Geology and Environmental Sciences
         by Dr Cian McGuire, British Ocean Sediment Core Research Facility
 
+  * Samples in the condensed matter physics community
+	    by Jana Pasztorova and Johanna K. Jochum
