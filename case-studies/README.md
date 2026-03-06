@@ -8,3 +8,7 @@
 
   * Samples in the magnetism and (many-body) quantum phenomena community
 	by Lukas Beddrich
+
+  * Samples in the Marine Geology and Environmental Sciences
+        by Dr Cian McGuire, British Ocean Sediment Core Research Facility
+
