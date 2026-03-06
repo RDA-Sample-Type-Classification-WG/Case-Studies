@@ -5,3 +5,6 @@
 
   * Samples in the material science community
 	by Rossella Aversa (KIT)
+
+  * Samples in the magnetism and (many-body) quantum phenomena community
+	by Lukas Beddrich
