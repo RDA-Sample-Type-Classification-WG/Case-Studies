@@ -14,3 +14,6 @@
 
   * Samples in the condensed matter physics community
     by Jana Pasztorova and Johanna K. Jochum
+
+  * Samples in the synchrotron physical sciences community
+    by S P Collins et al
