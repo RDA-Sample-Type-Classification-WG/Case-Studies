@@ -14,3 +14,6 @@
 
   * Samples in the condensed matter physics community
     by Jana Pasztorova and Johanna K. Jochum
+
+  * Samples in the Geochemistry community
+    by Angus Nixon
