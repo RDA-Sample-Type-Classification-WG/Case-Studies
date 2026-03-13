@@ -27,3 +27,6 @@
 
   * Samples in the photovoltaic materials community
     by Edgar Nandayapa
+
+  * Samples in the synchrotron physical sciences community
+    by S P Collins et al
