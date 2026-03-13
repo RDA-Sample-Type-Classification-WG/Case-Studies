@@ -24,3 +24,6 @@
 
   * Samples in the Geochemistry community
     by Angus Nixon
+
+  * Samples in the photovoltaic materials community
+    by Edgar Nandayapa
