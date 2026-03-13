@@ -18,3 +18,6 @@
   * Liquid Samples
 
   * Soft and Biological Matter Samples
+
+  * Samples in the Neutron Scattering community
+    by Yuliia Tymoshenko
