@@ -30,3 +30,6 @@
 
   * Samples in the synchrotron physical sciences community
     by S P Collins et al
+
+  * Samples in the material science community
+    by David Elbert
