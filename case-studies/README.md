@@ -15,6 +15,9 @@
   * Samples in the condensed matter physics community
     by Jana Pasztorova and Johanna K. Jochum
 
+  * Samples in the marine science community
+    by David Currie et al. (Marine Institute, Ireland)
+
   * Liquid Samples
 
   * Soft and Biological Matter Samples
