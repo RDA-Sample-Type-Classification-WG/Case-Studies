@@ -21,3 +21,6 @@
 
   * Samples in the Neutron Scattering community
     by Yuliia Tymoshenko
+
+  * Samples in the Geochemistry community
+    by Angus Nixon
