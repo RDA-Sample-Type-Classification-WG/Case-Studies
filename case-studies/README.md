@@ -34,5 +34,5 @@
   * [Samples in the synchrotron physical sciences community](synchrotron-physical-sciences.md)
     by S P Collins et al
 
-  * Samples in the material science community
+  * [Samples in the material science community](material-science-2.md)
     by David Elbert
