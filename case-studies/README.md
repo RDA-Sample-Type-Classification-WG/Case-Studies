@@ -28,6 +28,9 @@
   * [Samples in the Geochemistry community](geochemistry.md)
     by Angus Nixon
 
+  * [Samples in the geoscientific community (GFZ)](geoscience-gfz.md)
+    by Manja Luzi-Helbing, Felix Mühlbauer
+
   * [Samples in the photovoltaic materials community](photovoltaic-materials.md)
     by Edgar Nandayapa
 
