@@ -41,9 +41,9 @@ shape: sphere, cube, powder, thin film..."
 
 There are crystallographic standards, when it comes to the structure
 of samples.  One database that contains various compounds is
-international crystallographic database ICSD.  There is also attempt
+the Inorganic Crystal Structure Database (ICSD).  There is also an attempt
 to catalogue the magnetic structures on Bilbao crystallographic
-server.  However, it is much smaller database due to limited personnel
+server.  However, it is a much smaller database due to limited personnel
 and, perhaps, effort from scientists from the M-CM community too.
 
 ## Sample PIDs being used
