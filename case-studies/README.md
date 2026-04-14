@@ -36,3 +36,6 @@
 
   * [Archaeological materials](archaeology-community.md)
     by Thomas Rose (MIT)
+
+  * [Samples in the material science community](material-science-2.md)
+    by David Elbert
