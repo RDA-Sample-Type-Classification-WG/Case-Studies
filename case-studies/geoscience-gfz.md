@@ -52,4 +52,4 @@ GFZ Helmholtz Centre for Geosciences
 
 ## Appendix
 
-![Geosamples-GFZ.jpg](https://nextcloud.gfz.de/apps/text/image?documentId=83917688&sessionId=2194866&sessionToken=VSUSRSOFhip2Kpq7yrhRdMKk4eixBPQvod7nN86JbT39ayXyuxaSViP1QFbDRQqt&imageFileName=Geosamples-GFZ.jpg)
+![Geosamples-GFZ.jpg](geoscience-gfz.jpg)
