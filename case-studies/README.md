@@ -33,3 +33,6 @@
 
   * [Samples in the synchrotron physical sciences community](synchrotron-physical-sciences.md)
     by S P Collins et al
+
+  * [Samples in the Neutron Imaging community](neutron-imaging.md)
+    by Robin Woracek
