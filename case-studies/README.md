@@ -42,3 +42,6 @@
 
   * [Samples in the material science community](material-science-2.md)
     by David Elbert
+
+  * [Samples in the Neutron Imaging community](neutron-imaging.md)
+    by Robin Woracek
