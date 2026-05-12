@@ -45,3 +45,5 @@
 
   * [Samples in the Neutron Imaging community](neutron-imaging.md)
     by Robin Woracek
+
+  * [Samples in biological collections](biological-collections.md)
