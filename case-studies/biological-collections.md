@@ -11,7 +11,7 @@ plant specimens, cryptogams, fungi), and algae (living collection).
 Typically the collection consists of physical specimens, also referred
 to as voucher specimens.  They can be the "whole body" of a zoological
 specimen, or a pinned insect, or a representative sample of a plant
-that has been died and preserved.  There can also be associated
+that has been dried and preserved.  There can also be associated
 partial sample types such as a wing or a leg or a bone, or the sample
 may be preserved in ethanol or at low temperature.  There may also be
 genetic tissue samples linked to the physical specimen.
