@@ -45,3 +45,6 @@
 
   * [Samples in the Neutron Imaging community](neutron-imaging.md)
     by Robin Woracek
+
+  * [Samples in the Australian isotopes community](australian-isotopes.md)
+    by Nina Welti
