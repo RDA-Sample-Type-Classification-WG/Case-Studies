@@ -48,3 +48,5 @@
 
   * [Samples in the Australian isotopes community](australian-isotopes.md)
     by Nina Welti
+
+  * [Samples in biological collections](biological-collections.md)
