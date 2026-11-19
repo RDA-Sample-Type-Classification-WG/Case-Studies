@@ -1,3 +1,10 @@
+**Note**: 
+We have collected some fundamental properties to describe samples.  We
+are now asking people to test how well these properties work for
+classification of samples.  To contribute your examples, check out
+[the form](https://docs.google.com/spreadsheets/d/1KaMaPl3vO9D_Zr-cV9B0vZ_MQ2NHc-U8/edit?usp=sharing&ouid=105897610890033653928&rtpof=true&sd=true)
+and follow the instructions there.
+
 # Case Studies
 
 The [RDA Sample Type Classification WG](https://www.rd-alliance.org/groups/sample-type-classification-wg/activity/)
